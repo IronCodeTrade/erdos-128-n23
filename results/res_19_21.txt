@@ -1,0 +1,7 @@
+n=19 graphs=13734745 maxHeur=6 exactRuns=0 maxExact=-1 bound(n^2/50)=7.22 counterexamples=0
+ TH=7 28s
+n=20 graphs=178587364 maxHeur=8 exactRuns=3 maxExact=8 bound(n^2/50)=8.00 counterexamples=0
+ TH=8 404s
+n=21 graphs=967066475 maxHeur=8 exactRuns=1 maxExact=2 bound(n^2/50)=8.82 counterexamples=0
+n=21 graphs=970133440 maxHeur=7 exactRuns=0 maxExact=-1 bound(n^2/50)=8.82 counterexamples=0
+n=21 graphs=974105025 maxHeur=8 exactRuns=1 maxExact=4 bound(n^2/50)=8.82 counterexamples=0

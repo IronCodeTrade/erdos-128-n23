@@ -1,0 +1,1 @@
+n=22 graphs=11697637334 maxHeur=10 exactRuns=9 maxExact=8 bound(n^2/50)=9.68 counterexamples=0

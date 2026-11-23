@@ -1,0 +1,16 @@
+n=3 graphs=1 maxHeur=0 exactRuns=1 maxExact=0 bound(n^2/50)=0.18 counterexamples=0
+n=4 graphs=2 maxHeur=0 exactRuns=2 maxExact=0 bound(n^2/50)=0.32 counterexamples=0
+n=5 graphs=3 maxHeur=0 exactRuns=3 maxExact=0 bound(n^2/50)=0.50 counterexamples=0
+n=6 graphs=4 maxHeur=0 exactRuns=4 maxExact=0 bound(n^2/50)=0.72 counterexamples=0
+n=7 graphs=6 maxHeur=0 exactRuns=6 maxExact=0 bound(n^2/50)=0.98 counterexamples=0
+n=8 graphs=10 maxHeur=1 exactRuns=1 maxExact=1 bound(n^2/50)=1.28 counterexamples=0
+n=9 graphs=16 maxHeur=0 exactRuns=0 maxExact=-1 bound(n^2/50)=1.62 counterexamples=0
+n=10 graphs=31 maxHeur=2 exactRuns=2 maxExact=2 bound(n^2/50)=2.00 counterexamples=0
+n=11 graphs=61 maxHeur=1 exactRuns=0 maxExact=-1 bound(n^2/50)=2.42 counterexamples=0
+n=12 graphs=147 maxHeur=2 exactRuns=14 maxExact=2 bound(n^2/50)=2.88 counterexamples=0
+n=13 graphs=392 maxHeur=2 exactRuns=0 maxExact=-1 bound(n^2/50)=3.38 counterexamples=0
+n=14 graphs=1274 maxHeur=3 exactRuns=28 maxExact=3 bound(n^2/50)=3.92 counterexamples=0
+n=15 graphs=5036 maxHeur=3 exactRuns=0 maxExact=-1 bound(n^2/50)=4.50 counterexamples=0
+n=16 graphs=25617 maxHeur=4 exactRuns=0 maxExact=-1 bound(n^2/50)=5.12 counterexamples=0
+n=17 graphs=164796 maxHeur=4 exactRuns=0 maxExact=-1 bound(n^2/50)=5.78 counterexamples=0
+n=18 graphs=1337848 maxHeur=6 exactRuns=8 maxExact=6 bound(n^2/50)=6.48 counterexamples=0
